@@ -39,7 +39,7 @@ Some languages, like CSS, PowerShell, and "Shell", don't really have a meaningfu
 | [Kotlin (JVM)][Kotlin]    | ✅    | ✅      | ✅   | ⏳       |
 | [Kotlin (Wasm)][Kotlin]   | ⏳    | ✅      | ✅   | ❌       |
 | [Rust][Rust]              | ✅    | ✅      | ✅   | ✅       |
-| [Dart][Dart]              | ❌    | ⏳      | ❌   | ❌       |
+| [Dart][Dart]              | ✅    | ✅      | ⏳   | ❌       |
 
 * _Core_ means there is an implementation of WebAssembly 1.0
 * _Browser_ means there is at least one browser implementation
